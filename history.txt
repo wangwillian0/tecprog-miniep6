@@ -1,0 +1,2 @@
+docker build -t tecprog-miniep6 .
+docker run --rm -p 2019:80 tecprog-miniep6
